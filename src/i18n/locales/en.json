@@ -1,0 +1,289 @@
+{
+  "brand": {
+    "short": "Desert Rise Renovation",
+    "full": "Desert Rise Renovation Technical Services L.L.C",
+    "arabic": "ديزرت رايز رينوفيشن للخدمات الفنية ش.ذ.م.م"
+  },
+  "loader": {
+    "welcome": "Welcome to Desert Rise"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "team": "Team",
+    "process": "How we work",
+    "contact": "Contact",
+    "book": "Book a visit",
+    "menu": "Menu",
+    "language": "Language",
+    "theme": "Toggle light or dark mode"
+  },
+  "navServices": {
+    "renovation": {
+      "title": "Renovation",
+      "sub": "Villa, apartment, shops and offices"
+    },
+    "repairs": {
+      "title": "Repairs",
+      "sub": "AC, electrical, plumbing and painting"
+    },
+    "contracting": {
+      "title": "Contracting",
+      "sub": "Build, design and project management"
+    }
+  },
+  "hero": {
+    "h1": "Renovation and repairs across Dubai, at your door fast",
+    "pill1": "Renovation",
+    "pill2": "Maintenance",
+    "pill3": "Fit-outs",
+    "lead": "Our fully equipped vans bring skilled technicians and a clear written quote to your villa, apartment, shop or office, 24 hours a day.",
+    "ctaPrimary": "Book a site visit",
+    "ctaSecondary": "Explore services",
+    "prev": "Previous slide",
+    "next": "Next slide",
+    "pause": "Pause",
+    "play": "Play",
+    "slides": {
+      "s1": {
+        "title": "Electrical, painting, renovation and plumbing",
+        "tag": "24/7 service"
+      },
+      "s2": {
+        "title": "Our service van, ready across Dubai",
+        "tag": "Dubai-wide"
+      },
+      "s3": {
+        "title": "Call or WhatsApp us any time",
+        "tag": "Free quote"
+      },
+      "s4": {
+        "title": "Find us on the road",
+        "tag": "Fast response"
+      }
+    },
+    "mute": "Mute sound",
+    "unmute": "Turn sound on",
+    "goTo": "Show video {n}"
+  },
+  "quote": {
+    "title": "What do you need fixed?",
+    "note": "Tell us the job: a written quote arrives before any work starts.",
+    "service": "Service",
+    "area": "Area in Dubai",
+    "areaPh": "e.g. Marina, Deira, JVC",
+    "date": "Preferred date",
+    "phone": "Phone number",
+    "urgent": "Urgent, same-day visit",
+    "submit": "Get my quote",
+    "anyDate": "any date",
+    "urgentNote": "urgent, same day",
+    "whatsapp": "Hello Desert Rise, I would like a quote. Service: {service}. Area: {area}. When: {when}. Phone: {phone}."
+  },
+  "expect": {
+    "eyebrow": "Why Desert Rise",
+    "heading": "What you can expect from us",
+    "lead": "A Dubai technical services company, reachable at any hour.",
+    "items": {
+      "available": {
+        "title": "Available 24/7",
+        "desc": "Urgent leak or planned makeover: we schedule around your day."
+      },
+      "ontime": {
+        "title": "On time",
+        "desc": "Our technician arrives at the agreed time and keeps you updated."
+      },
+      "skilled": {
+        "title": "Skilled technicians",
+        "desc": "Trained electricians, plumbers, painters and carpenters."
+      },
+      "clean": {
+        "title": "Clean finishing",
+        "desc": "We protect your space and leave it tidy after the job."
+      },
+      "quotes": {
+        "title": "Clear quotes",
+        "desc": "A written scope and fixed price before work begins."
+      },
+      "replies": {
+        "title": "Fast replies",
+        "desc": "Reach us on WhatsApp or phone and get an answer quickly."
+      }
+    }
+  },
+  "services": {
+    "heading": "Our services",
+    "lead": "Choose a category. We handle everything from the first visit to the final touch-up.",
+    "tabs": {
+      "all": "All services",
+      "renovation": "Renovation",
+      "repairs": "Repairs",
+      "contracting": "Contracting"
+    },
+    "quote": "Get a quote",
+    "loadMore": "Load more services",
+    "showLess": "Show less",
+    "showing": "Showing {a} of {b} services",
+    "more": "{n} more",
+    "items": {
+      "villa": {
+        "name": "Villa",
+        "desc": "Full makeovers, facelifts and extensions for villas of every size."
+      },
+      "apartment": {
+        "name": "Apartment",
+        "desc": "Smart upgrades that make every square metre work harder."
+      },
+      "shops": {
+        "name": "Shops",
+        "desc": "Retail fit-outs designed to bring customers in and keep them."
+      },
+      "offices": {
+        "name": "Offices",
+        "desc": "Practical, modern workspaces built around your team."
+      },
+      "kitchen": {
+        "name": "Kitchen",
+        "desc": "Cabinets, counters and layouts that work as well as they look."
+      },
+      "bathroom": {
+        "name": "Bathroom",
+        "desc": "Tiling, fittings and waterproofing done to last."
+      },
+      "ac": {
+        "name": "AC repair",
+        "desc": "Servicing, repair and installation to keep you cool."
+      },
+      "electrical": {
+        "name": "Electrical",
+        "desc": "Wiring, lighting and fault finding by certified technicians."
+      },
+      "plumbing": {
+        "name": "Plumbing",
+        "desc": "Leaks, pipes and fittings fixed properly the first time."
+      },
+      "bedroom": {
+        "name": "Bedroom",
+        "desc": "Wardrobes, flooring and lighting for a calm retreat."
+      },
+      "living": {
+        "name": "Living room",
+        "desc": "Ceilings, walls and floors that make a great first impression."
+      },
+      "handyman": {
+        "name": "Handyman",
+        "desc": "Small jobs around the home, done properly and on time."
+      },
+      "painting": {
+        "name": "Premium painting",
+        "desc": "Clean, long-lasting finishes for interiors and exteriors."
+      },
+      "carpentry": {
+        "name": "Carpentry",
+        "desc": "Custom woodwork, doors and repairs by skilled carpenters."
+      },
+      "tiling": {
+        "name": "Floor tiling",
+        "desc": "Precise tiling for any floor, indoors or outdoors."
+      },
+      "pool": {
+        "name": "Swimming pool",
+        "desc": "Repair, tiling and maintenance for private pools."
+      },
+      "construction": {
+        "name": "General construction",
+        "desc": "Structures built from foundation to roof."
+      },
+      "virtual": {
+        "name": "Virtual design and build",
+        "desc": "See your project in 3D before work starts."
+      },
+      "maintenance": {
+        "name": "Property maintenance",
+        "desc": "Regular upkeep that protects the value of your property."
+      },
+      "preconstruction": {
+        "name": "Preconstruction",
+        "desc": "Planning, approvals and budgeting before the first brick."
+      },
+      "pm": {
+        "name": "Project management",
+        "desc": "Your project delivered on time and on budget."
+      },
+      "designbuild": {
+        "name": "Design build",
+        "desc": "Design and construction handled by one accountable team."
+      }
+    }
+  },
+  "team": {
+    "eyebrow": "Our people",
+    "heading": "Meet our team",
+    "lead": "The skilled professionals behind every project.",
+    "age": "Age {n}",
+    "roles": {
+      "pm": "Project Manager",
+      "electrician": "Electrical Technician",
+      "plumber": "Plumbing Specialist",
+      "painter": "Painting Supervisor"
+    }
+  },
+  "process": {
+    "heading": "How we work",
+    "lead": "A simple process, so you always know what happens next.",
+    "steps": {
+      "s1": {
+        "title": "Free consultation",
+        "desc": "We visit, measure and listen."
+      },
+      "s2": {
+        "title": "Design and quote",
+        "desc": "A clear plan and fixed price."
+      },
+      "s3": {
+        "title": "Build",
+        "desc": "Our team works to schedule."
+      },
+      "s4": {
+        "title": "Handover",
+        "desc": "We inspect together and fix any snag."
+      }
+    }
+  },
+  "contact": {
+    "heading": "Start your project",
+    "lead": "Tell us what you need and we will reply on WhatsApp.",
+    "mobile": "Mobile / WhatsApp",
+    "office": "Office line",
+    "location": "Location",
+    "locationValue": "Dubai, United Arab Emirates",
+    "name": "Your name",
+    "phone": "Phone number",
+    "service": "Service",
+    "other": "Other",
+    "message": "Describe your project",
+    "send": "Send on WhatsApp",
+    "whatsapp": "Hello Desert Rise, I am {name} ({phone}). Service: {service}. {message}"
+  },
+  "cta": {
+    "heading": "Ready to upgrade your space?",
+    "call": "Call"
+  },
+  "footer": {
+    "description": "Dubai-based technical services company: renovation, maintenance and fit-outs for homes and businesses.",
+    "navigation": "Navigation",
+    "services": "Services",
+    "popular": "Popular",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "hours": "Available 24 hours a day, 7 days a week",
+    "copyright": "© 2026 Desert Rise Renovation Technical Services L.L.C. All rights reserved.",
+    "tagline": "Dubai, UAE · Available 24/7"
+  },
+  "a11y": {
+    "quickContact": "Quick contact",
+    "call": "Call",
+    "whatsapp": "WhatsApp"
+  }
+}

@@ -1,0 +1,56 @@
+/** Stroke icon paths (24x24 viewBox). Add new icons here and use <AppIcon name="..."/>. */
+export const icons = {
+  home: "<path d='M3 11l9-8 9 8M5 10v10h14V10M10 20v-6h4v6'/>",
+  building: "<path d='M5 21V4h9v17M14 9h5v12M8 8h3M8 12h3M8 16h3'/>",
+  shop: "<path d='M4 9l1.5-5h13L20 9M4 9v11h16V9M4 9a3 3 0 006 0 3 3 0 006 0 3 3 0 004 0M10 20v-5h4v5'/>",
+  bed: "<path d='M3 18V7M3 14h18v4M21 14v-3a3 3 0 00-3-3h-7v6'/>",
+  kitchen: "<path d='M5 3v7a2 2 0 002 2v9M9 3v7a2 2 0 01-2 2M17 3c-2 2-3 5-3 8h3v10'/>",
+  bath: "<path d='M4 12h16v3a4 4 0 01-4 4H8a4 4 0 01-4-4zM6 12V6a2 2 0 014 0M7 19l-1 2M17 19l1 2'/>",
+  sofa: "<path d='M5 11V8a3 3 0 013-3h8a3 3 0 013 3v3M3 13a2 2 0 014 0v2h10v-2a2 2 0 014 0v5H3zM6 18v2M18 18v2'/>",
+  ac: "<path d='M12 2v20M4 7l16 10M4 17L20 7M9 4l3 2 3-2M9 20l3-2 3 2'/>",
+  bolt: "<path d='M13 2L4 14h7l-1 8 9-12h-7z'/>",
+  wrench:
+    "<path d='M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94l-6.91 6.91a2.12 2.12 0 01-3-3l6.91-6.91a6 6 0 017.94-7.94l-3.76 3.76z'/>",
+  drop: "<path d='M12 3s6 6.5 6 11a6 6 0 01-12 0c0-4.5 6-11 6-11z'/>",
+  roller: "<path d='M5 3h12v5H5zM17 5h3v6h-9v3M11 14h2v7h-2z'/>",
+  hammer: "<path d='M14 4l6 6-3 3-6-6zM12 8L4 16l4 4 8-8'/>",
+  tile: "<path d='M3 3h18v18H3zM3 12h18M12 3v18'/>",
+  pool: "<path d='M3 9c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2M3 15c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2M3 21c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2'/>",
+  hat: "<path d='M2 18h20v2H2zM4 18a8 8 0 0116 0M12 6v6'/>",
+  cube: "<path d='M12 2l9 5v10l-9 5-9-5V7zM12 12l9-5M12 12v10M12 12L3 7'/>",
+  cycle: "<path d='M12 8v4l3 2M3 12a9 9 0 109-9 9 9 0 00-6.4 2.6L3 8M3 3v5h5'/>",
+  clipboard: "<path d='M9 3h6v3H9zM6 5H5v16h14V5h-1M9 12h6M9 16h4'/>",
+  kanban: "<path d='M4 4h4v16H4zM10 4h4v10h-4zM16 4h4v6h-4z'/>",
+  pen: "<path d='M12 20h9M16.5 3.5a2.1 2.1 0 013 3L7 19l-4 1 1-4z'/>",
+  clock: "<circle cx='12' cy='12' r='9'/><path d='M12 7v5l3 2'/>",
+  userCheck:
+    "<circle cx='9' cy='8' r='3.5'/><path d='M3 20c0-3.5 3-6 6-6s6 2.5 6 6M16 11l2 2 4-4'/>",
+  shield: "<path d='M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z'/><path d='M9 12l2 2 4-4'/>",
+  sparkle:
+    "<path d='M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8zM19 17l.8 2.2L22 20l-2.2.8L19 23l-.8-2.2L16 20l2.2-.8z'/>",
+  receipt: "<path d='M6 3h12v18l-3-2-3 2-3-2-3 2z'/><path d='M9 8h6M9 12h6'/>",
+  chat: "<path d='M4 5h16v11H9l-5 4z'/>",
+  phone:
+    "<path d='M5 4h4l2 5-2.5 1.5a11 11 0 005 5L15 13l5 2v4a2 2 0 01-2 2A16 16 0 013 6a2 2 0 012-2z'/>",
+  user: "<circle cx='12' cy='8' r='4'/><path d='M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7z'/>",
+  linkedin:
+    "<path d='M4 9h4v11H4zM6 4a2 2 0 110 4 2 2 0 010-4zM10 9h4v1.6A4 4 0 0121 13v7h-4v-6a2 2 0 00-4 0v6h-3z'/>",
+  instagram:
+    "<rect x='3' y='3' width='18' height='18' rx='5'/><circle cx='12' cy='12' r='4'/><path d='M17.5 6.5h.01'/>",
+  facebook: "<path d='M14 8h3V4h-3a4 4 0 00-4 4v3H7v4h3v6h4v-6h3l1-4h-4V8a1 1 0 011-1z'/>",
+  sun: "<circle cx='12' cy='12' r='4'/><path d='M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5L19 19M5 19l1.5-1.5M17.5 6.5L19 5'/>",
+  moon: "<path d='M20 14.5A8.5 8.5 0 119.5 4 7 7 0 0020 14.5z'/>",
+  globe:
+    "<circle cx='12' cy='12' r='9'/><path d='M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18'/>",
+  menu: "<path d='M4 7h16M4 12h16M4 17h16'/>",
+  close: "<path d='M6 6l12 12M18 6L6 18'/>",
+  chevron: "<path d='M6 9l6 6 6-6'/>",
+  arrow: "<path d='M5 12h14M13 6l6 6-6 6'/>",
+  plus: "<path d='M12 5v14M5 12h14'/>",
+  prev: "<path d='M15 6l-6 6 6 6'/>",
+  next: "<path d='M9 6l6 6-6 6'/>",
+  pause: "<path d='M8 5v14M16 5v14'/>",
+  play: "<path d='M7 4l13 8-13 8z'/>",
+  volume: "<path d='M4 9v6h4l5 4V5L8 9zM16.5 8.5a5 5 0 010 7M19 6a8.5 8.5 0 010 12'/>",
+  mute: "<path d='M4 9v6h4l5 4V5L8 9zM17 9l5 6M22 9l-5 6'/>",
+}

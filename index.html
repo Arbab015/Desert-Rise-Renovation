@@ -1,13 +1,37 @@
-<!DOCTYPE html>
-<html lang="">
-  <head>
-    <meta charset="UTF-8">
-    <link rel="icon" href="/favicon.ico">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vite App</title>
-  </head>
-  <body>
-    <div id="app"></div>
-    <script type="module" src="/src/main.js"></script>
-  </body>
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta
+            name="description"
+            content="Desert Rise Renovation Technical Services L.L.C: villa and apartment renovation, shop and office fit-outs, AC, electrical, plumbing and painting in Dubai."
+    />
+    <meta name="theme-color" content="#070B16" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+            href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Inter:wght@400;500;600&family=Playfair+Display:wght@500;700&display=swap"
+            rel="stylesheet"
+    />
+    <title>Desert Rise Renovation | Dubai</title>
+    <script>
+        // Apply saved theme/language before first paint to avoid a flash.
+        try {
+            var d = document.documentElement
+            var t =
+                localStorage.getItem('drr-theme') ||
+                (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+            var l = localStorage.getItem('drr-lang') === 'ar' ? 'ar' : 'en'
+            d.dataset.theme = t
+            d.lang = l
+            d.dir = l === 'ar' ? 'rtl' : 'ltr'
+        } catch (e) {}
+    </script>
+</head>
+<body>
+<div id="app"></div>
+<script type="module" src="/src/main.js"></script>
+</body>
 </html>
